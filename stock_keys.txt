@@ -1,1 +1,1 @@
-['tesla', 'facebook', 'microsoft', 'amazon', 'google']
+['tesla', 'facebook', 'microsoft', 'amazon', 'google', 'uber', 'lyft', 'apple', 'snap']

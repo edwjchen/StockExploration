@@ -1,0 +1,1 @@
+['tesla', 'facebook', 'microsoft', 'amazon', 'google']
